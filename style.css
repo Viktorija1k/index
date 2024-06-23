@@ -10,8 +10,6 @@ html,body {
   display: initial;
   justify-content: space-around;
   margin-left: 100px;
-
-
 }
 
 .topnav a {
@@ -32,6 +30,13 @@ html,body {
 .topnav a.active {
   background: url(kartinka.jpg);
   color: #0d75fd;
+}
+
+h1 {
+  font-family: Times New Roman, sans-serif;
+  font-size: 30px;
+  text-align:center;
+  
 }
 
 main, footer {
